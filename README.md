@@ -1,2 +1,2 @@
 # Espade.github.io
-This is the first time i build my own github page
+This is CV of me. Check it out!
